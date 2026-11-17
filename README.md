@@ -13,7 +13,7 @@ Three [Claude Code](https://claude.com/claude-code) skills for finding, fixing, 
 Personal (all projects):
 
 ```bash
-git clone https://github.com/<you>/claude-security-skills.git
+git clone https://github.com/cr37u/claude-security-skills.git
 mkdir -p ~/.claude/skills
 cp -r claude-security-skills/skills/* ~/.claude/skills/
 ```
