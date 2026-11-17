@@ -1,0 +1,10 @@
+Claude Security Skills
+
+This project contains skill instructions adapted from openai/codex-security
+(https://github.com/openai/codex-security), Copyright OpenAI, licensed under
+the Apache License, Version 2.0.
+
+Changes: the scanning, fixing, and skill-review methodology was condensed and
+rewritten to run on Claude Code's built-in tools; dependencies on the Codex
+Security MCP server, SDK, cloud service, and ticketing connectors were removed;
+Claude Code-specific checks were added to the skill review.
